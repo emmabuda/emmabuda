@@ -11,3 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... I probably am easier to reach with text or email.
 - ⚡ Fun fact: ... I play soccer at NDC
 -->
+note
+updated today: March 30th 2023
